@@ -17,6 +17,3 @@ array=[23,21,43,56,12,32]
 sortedarray=selectionsort(array)
 arrayt=int(reversed(sortedarray))
 print(arrayt)
-# str="hello"
-# # print(str[::-1])
-# print(str[::2])
